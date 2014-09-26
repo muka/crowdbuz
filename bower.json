@@ -1,0 +1,21 @@
+{
+  "name": "crowdbuz",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Luca Capra <luca.capra@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

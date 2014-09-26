@@ -1,0 +1,14 @@
+{
+  "name": "crowdbuz",
+  "dependencies": {
+    "body-parser": "*",
+    "compose.io": "compose-eu/Appcelerator",
+    "errorhandler": "*",
+    "express": "4.x",
+    "method-override": "*",
+    "proj4": "^2.2.2",
+    "proj4js-defs": "0.0.1",
+    "reproject": "^0.1.1",
+    "restler": "*"
+  }
+}
